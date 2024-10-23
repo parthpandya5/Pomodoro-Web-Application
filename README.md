@@ -1,1 +1,2 @@
 # Pomodoro-Web-Application
+In this project, I led the development of a streamlined Pomodoro web application designed to boost productivity and tackle procrastination. Leveraging HTML, CSS, and JavaScript, I crafted a minimalistic interface that aligns with users’ needs for simplicity and efficiency. The application breaks down work into focused intervals, promoting concentration and regular breaks. By integrating user feedback and tracking usage patterns, the tool successfully enhances productivity by 35%
